@@ -1,0 +1,23 @@
+.navbar {
+    background-color: teal;
+    background-image: linear-gradient(to bottom right, teal,
+    rgb(44, 85, 146));
+}
+
+.navbar-text {
+    font-size: 40px;
+}
+
+.search-header {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(48, 47, 47);
+}
+
+.city-name {
+    font-size: 30px;
+}
+
+.forcast-date {
+    font-size: 18px;
+}
