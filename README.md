@@ -3,9 +3,7 @@
 
 ## Your Task
 
-Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
-
-Make sure to read the [OpenWeather "How To Start" Guide](https://openweathermap.org/appid) before you get started. Use the [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) to retrieve weather data for cities. Read through the documentation for setup and usage instructions. You will use `localStorage` to store any persistent data.
+The aim of this assignment was to build a Weather Dashboard. The web app uses the [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) to retrieve weather data for cities. 
 
 ## User Story
 
@@ -32,9 +30,10 @@ THEN I am again presented with current and future conditions for that city
 ```
 
 
-## Grading Requirements
+## Pseudo Code
 
-This homework is graded based on the following criteria: 
+
+
 
 ### Technical Acceptance Criteria: 40%
 
